@@ -1,0 +1,19 @@
+.tela {
+    background-color: fuchsia;
+    width: 1440px;
+    height: 1024px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+.filho2 {
+    text-align: center;
+}
+
+.filho3 {
+    text-align: left;
+}
